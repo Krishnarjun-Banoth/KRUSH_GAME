@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C80C7C6B-BB9D-47FC-A73A-6D8F64B7B7BC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A622AFAA-ADF1-4437-9D22-9B3517D0CBD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KRUSH_GAME/LandingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "290"
+            endingLineNumber = "290"
+            landmarkName = "locationManager(_:didUpdateLocations:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
